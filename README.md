@@ -1,6 +1,6 @@
 # Global Poverty and Inequality Analysis (World Bank Data)
 
-> Data Science coursework, The British University in Egypt, 2025. Author: Ziad Ayman.
+> Data Science coursework, The British University in Egypt, 2024 (rebuilt in 2026 with the latest World Bank data). Author: Ziad Ayman.
 
 An end-to-end data analysis of poverty and inequality across **217 countries from 1990 to 2024**, built on live data from the **World Bank API**. It covers a reproducible data pipeline, regional trends, a statistical model of poverty versus income, country segmentation with k-means, an Egypt case study and an **interactive Streamlit dashboard**.
 
