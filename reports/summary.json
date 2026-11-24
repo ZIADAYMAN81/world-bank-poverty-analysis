@@ -1,0 +1,71 @@
+{
+  "countries_in_panel": 217,
+  "years": [
+    1990,
+    2025
+  ],
+  "world_extreme_poverty": {
+    "1990": 43.4,
+    "2000": 36.2,
+    "2010": 21.0,
+    "2024": 10.1
+  },
+  "income_model": {
+    "r2_log_odds": 0.874,
+    "spearman_gdp_vs_poverty": -0.946,
+    "spearman_residual_vs_gini": 0.188,
+    "p_value_residual_vs_gini": 0.02,
+    "n_countries": 153
+  },
+  "egypt": {
+    "poverty_830_latest": 58.5,
+    "latest_year": 2021,
+    "predicted_from_income": 20.1,
+    "excess_poverty_rank": 3,
+    "gini_latest": 28.5
+  },
+  "largest_excess_poverty": [
+    "Botswana",
+    "Indonesia",
+    "Egypt, Arab Rep.",
+    "Eswatini",
+    "Nigeria"
+  ],
+  "clusters": {
+    "k": 3,
+    "silhouette": {
+      "3": 0.389,
+      "4": 0.383,
+      "5": 0.376,
+      "6": 0.354
+    },
+    "sizes": {
+      "High inequality": 39,
+      "High poverty": 42,
+      "Lower inequality": 72
+    },
+    "medians": {
+      "High inequality": {
+        "poverty_300": 3.0,
+        "poverty_830": 22.9,
+        "gini": 42.4,
+        "share_bottom20": 5.5,
+        "gdp_pc_ppp": 17245.8
+      },
+      "High poverty": {
+        "poverty_300": 38.6,
+        "poverty_830": 88.4,
+        "gini": 36.5,
+        "share_bottom20": 7.2,
+        "gdp_pc_ppp": 3682.0
+      },
+      "Lower inequality": {
+        "poverty_300": 0.4,
+        "poverty_830": 4.5,
+        "gini": 31.3,
+        "share_bottom20": 7.9,
+        "gdp_pc_ppp": 38509.6
+      }
+    }
+  }
+}

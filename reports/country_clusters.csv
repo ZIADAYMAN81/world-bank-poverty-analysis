@@ -1,0 +1,154 @@
+iso3,name,region,income_group,poverty_300,poverty_830,gini,share_bottom20,gdp_pc_ppp,cluster
+AGO,Angola,Sub-Saharan Africa,Lower middle income,39.3,80.0,51.3,3.8,8760.19081963151,High inequality
+ARG,Argentina,Latin America & Caribbean,Upper middle income,1.0,15.2,42.4,5.1,27846.5984597239,High inequality
+BLZ,Belize,Latin America & Caribbean,Upper middle income,1.0,19.7,39.9,5.8,12788.8423713826,High inequality
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,2.1,17.4,40.9,5.4,11000.5345220728,High inequality
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,21.4,63.2,54.9,3.7,17687.2042407934,High inequality
+BRA,Brazil,Latin America & Caribbean,Upper middle income,3.0,20.6,50.3,3.9,20024.6968256903,High inequality
+BGR,Bulgaria,Europe & Central Asia,High income,1.0,4.4,39.5,6.0,35325.5317883474,High inequality
+CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,14.6,65.0,42.4,5.7,10395.7415044012,High inequality
+CHL,Chile,Latin America & Caribbean,High income,0.4,4.5,43.0,5.8,30863.4223155169,High inequality
+COL,Colombia,Latin America & Caribbean,Upper middle income,8.5,37.0,54.4,3.2,18778.6482631901,High inequality
+CRI,Costa Rica,Latin America & Caribbean,High income,0.8,9.7,45.5,4.7,28443.4127676388,High inequality
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,0.8,14.0,39.0,6.1,24543.3421843415,High inequality
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,3.4,30.1,45.9,4.8,14319.2406558299,High inequality
+SLV,El Salvador,Latin America & Caribbean,Upper middle income,4.6,29.9,39.8,5.6,12050.028265702,High inequality
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,8.8,58.1,38.5,6.4,13786.3932934089,High inequality
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,44.5,79.3,54.6,3.7,10706.7778049468,High inequality
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,3.8,32.9,38.0,6.0,18986.4738767293,High inequality
+GRD,Grenada,Latin America & Caribbean,Upper middle income,0.8,19.6,43.8,5.5,18240.9934237926,High inequality
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,9.7,47.3,45.2,4.6,12986.5241144632,High inequality
+HND,Honduras,Latin America & Caribbean,Lower middle income,15.7,49.8,45.7,3.7,6726.16685066658,High inequality
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.4,4.4,38.3,5.2,48196.6345176562,High inequality
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,1.4,22.9,39.9,5.7,11357.915592063,High inequality
+XKX,Kosovo,Europe & Central Asia,Upper middle income,10.0,38.2,38.3,4.5,16461.2943631188,High inequality
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,5.8,50.7,35.5,6.8,10469.2210966932,High inequality
+MYS,Malaysia,East Asia & Pacific,Upper middle income,0.0,2.9,40.7,5.9,35461.4465805872,High inequality
+MEX,Mexico,Latin America & Caribbean,Upper middle income,1.6,21.4,42.6,5.6,21911.9292842747,High inequality
+NAM,Namibia,Sub-Saharan Africa,Lower middle income,22.9,61.1,59.1,2.8,10242.2840471219,High inequality
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,6.6,46.5,46.2,5.1,7933.48888006412,High inequality
+PAN,Panama,Latin America & Caribbean,High income,3.1,19.8,49.7,3.6,37516.1796428548,High inequality
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,2.1,20.5,44.2,5.3,17245.8458423118,High inequality
+PER,Peru,Latin America & Caribbean,Upper middle income,5.1,36.2,40.1,5.6,16079.1247394843,High inequality
+PHL,Philippines,East Asia & Pacific,Upper middle income,5.3,58.7,39.3,6.9,10747.5454408601,High inequality
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,17.4,59.6,54.1,3.7,13592.0484020929,High inequality
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,0.1,7.8,43.7,5.5,24502.9628641276,High inequality
+SUR,Suriname,Latin America & Caribbean,Upper middle income,2.2,20.9,39.2,5.9,19357.3907969318,High inequality
+TUR,Turkiye,Europe & Central Asia,Upper middle income,0.2,4.1,43.7,5.5,37300.7485739354,High inequality
+USA,United States,North America,High income,1.1,1.8,41.8,5.1,76931.3106990408,High inequality
+URY,Uruguay,Latin America & Caribbean,High income,0.2,5.9,40.0,5.7,32741.6246877908,High inequality
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2.1,28.6,36.4,6.6,4272.45762077019,High inequality
+BEN,Benin,Sub-Saharan Africa,Lower middle income,27.2,86.5,34.4,7.6,4116.2151559488,High poverty
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,42.1,90.4,37.4,7.3,2624.82858270803,High poverty
+BDI,Burundi,Sub-Saharan Africa,Low income,74.2,97.4,37.5,7.1,1066.51299240586,High poverty
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,26.7,74.0,42.2,5.4,4945.95640965334,High poverty
+CAF,Central African Republic,Sub-Saharan Africa,Low income,71.6,96.1,43.0,5.6,1122.76083348097,High poverty
+TCD,Chad,Sub-Saharan Africa,Low income,39.5,89.5,37.4,6.9,2480.50962500924,High poverty
+COM,Comoros,Sub-Saharan Africa,Lower middle income,5.1,68.2,30.3,8.8,3621.76626304343,High poverty
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,85.3,98.0,44.7,5.5,1640.56621824278,High poverty
+CIV,Cote d'Ivoire,Sub-Saharan Africa,Lower middle income,20.8,80.9,35.3,7.6,7014.84577693062,High poverty
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,25.4,80.8,41.6,5.4,7222.5498918753,High poverty
+ETH,Ethiopia,Sub-Saharan Africa,Low income,38.6,93.5,31.1,8.3,3094.86811868352,High poverty
+GMB,"Gambia, The",Sub-Saharan Africa,Low income,22.0,78.2,38.8,6.6,3166.62129644442,High poverty
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,39.0,85.4,43.5,4.7,7357.83332993014,High poverty
+GIN,Guinea,Sub-Saharan Africa,Lower middle income,11.7,76.6,29.6,8.5,4216.85970804544,High poverty
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,39.9,91.4,33.4,7.9,2814.08355940327,High poverty
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,45.5,90.1,38.5,7.1,5995.40177895632,High poverty
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,7.1,70.3,34.7,7.9,8872.69396186433,High poverty
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,41.9,83.8,44.9,4.6,2720.95737653412,High poverty
+LBR,Liberia,Sub-Saharan Africa,Low income,33.6,88.3,35.3,7.2,1692.92591135475,High poverty
+MDG,Madagascar,Sub-Saharan Africa,Low income,69.2,96.6,36.8,7.2,1668.47702330854,High poverty
+MWI,Malawi,Sub-Saharan Africa,Low income,75.4,97.1,38.5,7.0,1623.02178529282,High poverty
+MLI,Mali,Sub-Saharan Africa,Low income,36.1,88.6,35.7,7.6,2993.25166359257,High poverty
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,10.2,71.2,32.0,7.8,6559.04321960566,High poverty
+MOZ,Mozambique,Sub-Saharan Africa,Low income,81.4,96.3,49.6,4.7,1450.95955248858,High poverty
+MMR,Myanmar,East Asia & Pacific,Lower middle income,10.3,79.8,30.7,8.9,5137.10048825615,High poverty
+NER,Niger,Sub-Saharan Africa,Low income,60.5,96.1,32.9,8.7,1860.54858272608,High poverty
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,41.8,92.9,33.9,7.5,8145.14808387469,High poverty
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,23.0,87.1,33.5,8.2,5617.25078028458,High poverty
+RWA,Rwanda,Sub-Saharan Africa,Low income,38.6,89.8,39.4,7.4,3558.68003753808,High poverty
+STP,Sao Tome and Principe,Sub-Saharan Africa,Lower middle income,13.0,70.0,40.7,6.4,5459.21311766335,High poverty
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,17.9,78.6,36.2,7.3,4668.54167658726,High poverty
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,41.5,91.5,35.7,7.9,3176.23681292996,High poverty
+SDN,Sudan,Sub-Saharan Africa,Low income,10.1,73.2,34.2,7.8,1873.38562011719,High poverty
+SYR,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,18.0,89.3,26.4,9.3,4579.43973633341,High poverty
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,6.1,55.4,36.1,7.1,5061.84700623649,High poverty
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,51.3,91.5,40.5,6.9,3820.61181640625,High poverty
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,44.0,96.0,28.7,9.4,4109.9044785289,High poverty
+TGO,Togo,Sub-Saharan Africa,Lower middle income,34.7,87.0,37.9,6.8,3485.98184512074,High poverty
+UGA,Uganda,Sub-Saharan Africa,Low income,54.4,93.6,38.2,6.6,2980.37942135501,High poverty
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,19.5,81.3,32.3,7.6,3866.99814901674,High poverty
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,71.7,94.0,51.5,3.9,3742.25646316492,High poverty
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,49.2,86.2,50.3,4.8,5529.23310016154,High poverty
+ALB,Albania,Europe & Central Asia,Upper middle income,0.3,19.9,29.4,8.4,22724.2938194949,Lower inequality
+ARM,Armenia,Europe & Central Asia,Upper middle income,0.8,47.4,27.4,9.6,21153.478328571,Lower inequality
+AUS,Australia,East Asia & Pacific,High income,0.9,1.5,33.8,7.2,60194.0633547961,Lower inequality
+AUT,Austria,Europe & Central Asia,High income,0.5,1.0,31.2,7.7,63970.4008534859,Lower inequality
+BGD,Bangladesh,South Asia,Lower middle income,5.9,71.5,30.9,8.8,8676.7557622508,Lower inequality
+BRB,Barbados,Latin America & Caribbean,High income,1.7,15.8,34.1,6.9,22127.3604979718,Lower inequality
+BLR,Belarus,Europe & Central Asia,Upper middle income,0.0,2.6,24.4,10.3,29666.2115719117,Lower inequality
+BEL,Belgium,Europe & Central Asia,High income,0.1,0.3,26.8,9.1,63488.4217622523,Lower inequality
+BTN,Bhutan,South Asia,Lower middle income,0.0,9.0,28.5,8.8,16743.8703854575,Lower inequality
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,0.3,11.7,30.3,8.2,21178.2260059497,Lower inequality
+CAN,Canada,North America,High income,0.3,0.6,31.5,7.7,57989.5784653558,Lower inequality
+CHN,China,East Asia & Pacific,Upper middle income,0.0,21.3,36.0,7.3,25066.5215296486,Lower inequality
+HRV,Croatia,Europe & Central Asia,High income,0.3,2.0,30.1,7.8,44172.0442284906,Lower inequality
+CYP,Cyprus,Europe & Central Asia,High income,0.0,0.1,31.8,8.6,54103.26171875,Lower inequality
+CZE,Czechia,Europe & Central Asia,High income,0.0,0.8,25.7,9.5,49292.4878713208,Lower inequality
+DNK,Denmark,Europe & Central Asia,High income,0.4,0.6,29.9,9.1,72723.2747867992,Lower inequality
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1.4,58.5,28.5,9.7,17265.1488604617,Lower inequality
+EST,Estonia,Europe & Central Asia,High income,0.3,1.3,30.7,8.3,41604.3226612806,Lower inequality
+FJI,Fiji,East Asia & Pacific,Upper middle income,4.7,61.3,30.7,8.4,13961.1183693541,Lower inequality
+FIN,Finland,Europe & Central Asia,High income,0.2,0.4,27.4,9.2,55735.2174921326,Lower inequality
+FRA,France,Europe & Central Asia,High income,0.1,0.3,31.8,7.7,55124.5392564395,Lower inequality
+GEO,Georgia,Europe & Central Asia,Upper middle income,4.2,45.6,33.9,7.3,25135.7822457412,Lower inequality
+DEU,Germany,Europe & Central Asia,High income,0.7,1.6,33.7,6.9,62823.7736648822,Lower inequality
+GRC,Greece,Europe & Central Asia,High income,0.6,3.2,33.4,7.2,38218.721628616,Lower inequality
+HUN,Hungary,Europe & Central Asia,High income,0.9,4.9,30.6,7.9,41160.6419140983,Lower inequality
+ISL,Iceland,Europe & Central Asia,High income,0.1,0.4,26.8,9.4,68064.6854551866,Lower inequality
+IND,India,South Asia,Lower middle income,2.6,80.0,23.0,11.1,10039.0708910587,Lower inequality
+IDN,Indonesia,East Asia & Pacific,Upper middle income,3.7,64.1,34.4,8.3,15091.0088604652,Lower inequality
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2.5,36.0,35.9,7.0,16833.7821677117,Lower inequality
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.5,28.0,29.8,8.9,12191.5564658302,Lower inequality
+IRL,Ireland,Europe & Central Asia,High income,0.1,0.3,29.0,9.2,131338.444745041,Lower inequality
+ITA,Italy,Europe & Central Asia,High income,0.9,1.9,34.3,6.6,53606.0789571011,Lower inequality
+JPN,Japan,East Asia & Pacific,High income,1.2,3.3,32.3,6.8,48283.3723959465,Lower inequality
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,0.0,15.2,29.2,9.8,37850.5791042984,Lower inequality
+KIR,Kiribati,East Asia & Pacific,Lower middle income,0.9,52.0,24.7,10.2,3363.99521326766,Lower inequality
+KOR,"Korea, Rep.",East Asia & Pacific,High income,0.1,0.5,32.9,7.4,55697.0848086328,Lower inequality
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2.2,65.2,27.5,9.6,7878.4491366966,Lower inequality
+LVA,Latvia,Europe & Central Asia,High income,0.4,2.8,34.0,7.2,38800.5425281872,Lower inequality
+LTU,Lithuania,Europe & Central Asia,High income,1.1,3.2,36.0,6.5,48839.5436452948,Lower inequality
+LUX,Luxembourg,Europe & Central Asia,High income,0.1,0.2,33.6,7.1,127420.601625165,Lower inequality
+MDV,Maldives,South Asia,Upper middle income,0.0,11.2,29.3,8.9,24401.3159253635,Lower inequality
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.4,1.1,31.8,7.6,63655.5160659665,Lower inequality
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2.1,36.5,35.5,7.2,7660.37695591168,Lower inequality
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,0.5,19.1,36.8,7.2,28769.5128307709,Lower inequality
+MDA,Moldova,Europe & Central Asia,Upper middle income,0.0,21.4,26.8,9.9,17087.1874044819,Lower inequality
+MNG,Mongolia,East Asia & Pacific,Upper middle income,0.4,24.4,31.4,8.2,17772.5342212559,Lower inequality
+MNE,Montenegro,Europe & Central Asia,Upper middle income,2.5,14.5,34.3,6.2,28895.3171970071,Lower inequality
+NPL,Nepal,South Asia,Lower middle income,2.4,52.7,30.0,8.7,5276.92387725538,Lower inequality
+NLD,Netherlands,Europe & Central Asia,High income,0.1,0.3,25.7,9.4,71378.4856331012,Lower inequality
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,3.9,20.5,33.5,5.8,25094.6225007185,Lower inequality
+NOR,Norway,Europe & Central Asia,High income,0.2,0.4,26.5,9.1,95173.4308224367,Lower inequality
+POL,Poland,Europe & Central Asia,High income,0.2,1.1,28.5,8.6,46924.5887897477,Lower inequality
+PRT,Portugal,Europe & Central Asia,High income,0.4,2.2,33.9,7.4,42576.8139673545,Lower inequality
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.0,0.0,35.1,6.5,110135.696297692,Lower inequality
+ROU,Romania,Europe & Central Asia,High income,0.7,5.1,29.8,7.0,40845.9843440113,Lower inequality
+RUS,Russian Federation,Europe & Central Asia,High income,0.1,0.9,33.0,7.7,42357.98828125,Lower inequality
+SRB,Serbia,Europe & Central Asia,Upper middle income,1.1,9.0,32.8,6.9,27603.3916309287,Lower inequality
+SYC,Seychelles,Sub-Saharan Africa,High income,0.7,8.4,32.1,7.1,30638.7217194523,Lower inequality
+SVK,Slovak Republic,Europe & Central Asia,High income,0.5,4.1,23.8,9.1,40689.8179557427,Lower inequality
+SVN,Slovenia,Europe & Central Asia,High income,0.0,0.1,24.7,10.0,49091.0184405902,Lower inequality
+ESP,Spain,Europe & Central Asia,High income,0.8,2.3,33.4,6.5,49318.105559037,Lower inequality
+LKA,Sri Lanka,South Asia,Upper middle income,2.7,53.3,37.7,7.4,14582.7603740374,Lower inequality
+SWE,Sweden,Europe & Central Asia,High income,0.8,1.5,29.3,7.9,63362.4612808079,Lower inequality
+CHE,Switzerland,Europe & Central Asia,High income,0.1,0.3,33.5,7.6,85732.1097535232,Lower inequality
+THA,Thailand,East Asia & Pacific,Upper middle income,0.0,11.7,33.3,7.9,22431.7518380848,Lower inequality
+TON,Tonga,East Asia & Pacific,Upper middle income,0.4,26.7,27.1,9.3,7412.86641968829,Lower inequality
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.7,20.7,33.7,7.7,13017.6340422977,Lower inequality
+UKR,Ukraine,Europe & Central Asia,Upper middle income,0.0,11.3,25.6,10.0,16155.0732421875,Lower inequality
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.0,0.6,26.4,8.2,69701.785835525,Lower inequality
+GBR,United Kingdom,Europe & Central Asia,High income,0.4,0.9,32.4,7.6,53993.1172607885,Lower inequality
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2.3,12.4,32.7,7.0,11622.8556243531,Lower inequality
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,1.6,21.5,36.1,6.8,15457.3499403547,Lower inequality
